@@ -4,3 +4,4 @@ redis
 bcrypt
 requests
 python-dotenv
+pandas
